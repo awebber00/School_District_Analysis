@@ -28,3 +28,6 @@ I was tasked with helping Maria perform an analysis of schools in a particular d
  ### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
  
  Four changes in the updated district analysis are: Percentage differences of about 25%-30% in the Average Math Score, Average Reading Score, Passing Math, Passing Reading, and Overall Passing categories, changes in the schools with spending in the $630-$644 range, changes in the Math and Reading Scores by School Size in the Medium bin, and changes in the Math and Reading Scores by School Type in the Charter school data.
+
+
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
